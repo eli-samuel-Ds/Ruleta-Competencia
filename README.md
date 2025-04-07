@@ -1,0 +1,2 @@
+# Ruleta-Competencia
+Ruleta 
